@@ -1,6 +1,6 @@
 # Lab02 Evaluation Template
 
-## Part 1 (10 points)
+## Part 1 - Team (10 points)
 
 - [ ] One Sprint Planning meeting documented in team/sprint0?/ folder.
 
@@ -10,16 +10,24 @@
 - [ ] Moved the issue to In-Progress.
 - [ ] Moved the issue to Done.
 
-## Part 3 (20 points)
+## Part 3 - Team (20 points)
 
-- [ ] create problem_scenario.md and user_journey.md in the team directory
+- [ ] your README.md file is updated with information about your technology stack and approach, as well as listing user roles. The project description should be a single paragraph. 
 
-## Part 4 (20 points, individual)
+## Part 4 - Team (20 points)
 
-- [ ] Demo a "Hello World!" program in the tech stack of your choice.
+- [ ] (10 points) There should be at least one user story in the In-Progress or Done column for your team. 
+  
+- [ ] (10 points) There should be at least one issue under each user story that supports implementing that user story.
 
-## Part 5 (20 points, individual/team)
 
-- [ ] As part of this grade, each team member should have contributed to a hello world assignment as an individual or as part of a group by the due date/time of this lab, i.e. (Fri, Oct 08 at 11:59PM)
+## Part 5 - Team/Individual (20 points)
 
-- [ ] For teams of 5, this part of your grade is 6 points per team member. For teams of 4, it is 7.5 points. Those points are all or nothing; if you’ve made a reasonable attempt, even if you didn’t earn 100% on lab01, your team will earn 6 or 7.5 points for your contribution towards the whole.
+- [ ] Each user on the team should have been assigned to at least one issue in the in-progress column. For teams of 5, this part of your grade is 4 points per team member. For teams of 4, it is 5 points per team member, for teams of 6 it is 3.17 points.
+
+
+## Part 6 - Team (20 points)
+
+- [ ] (10 points) naming a retro leader for the lect05 retro and record their name in your new LEADERSHIP.md file. Also list there the leaders for previous and scheduled Sprint planning meetings, and other major coordination meetings.
+
+- [ ] (10 points) your LEARNING.md file (described in lect04) is filled with information about your tech stack background and learning trajectory.
