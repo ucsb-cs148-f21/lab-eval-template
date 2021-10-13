@@ -6,9 +6,9 @@
 
 ## Part 2 - Individual (10 points)
 
-- [ ] Are assigned to an issue as a To-Do by Wednesday.
-- [ ] Moved the issue to In-Progress.
-- [ ] Moved the issue to Done.
+- [ ] (4 points) You are assigned to an issue as a To-Do by Wednesday. Every day after Wednesday loses 2 points.
+- [ ] (3 points) You moved the issue to In-Progress.
+- [ ] (3 points) You moved the issue to Done.
 
 ## Part 3 (20 points)
 
