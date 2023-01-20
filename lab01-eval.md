@@ -2,7 +2,7 @@
 
 ## Part 1 (20 points)
 
-- [ ] Create a repo for the team. 
+- [x] Create a repo for the team. 
 
 - [ ] Each team member creates a branch and adds a personal md file.
 
